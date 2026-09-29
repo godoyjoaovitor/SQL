@@ -12,4 +12,3 @@ ON t2.IdProduto = t3.IdProduto
 WHERE t1.DtCriacao >= '2024-01-01'
 AND t1.DtCriacao < '2025-01-01'
 AND t3.DescCategoriaProduto = 'lovers'
-.tables
